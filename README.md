@@ -1,2 +1,1 @@
-# ripple_impact
-This is a graphql project
+This is a graphql project using an authentication
